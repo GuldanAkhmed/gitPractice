@@ -8,7 +8,7 @@ public class testing {
 		//features
 		
 		System.out.println("water is blue");
-		
+		System.out.println("water is red");
 		
 		
 
